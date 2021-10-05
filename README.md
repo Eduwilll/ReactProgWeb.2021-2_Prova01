@@ -12,3 +12,5 @@ Minha Aplicação:
 
 ![](https://ibb.co/W6wnzyM)
 <img src="https://ibb.co/W6wnzyM" width="40" height="40" />
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
