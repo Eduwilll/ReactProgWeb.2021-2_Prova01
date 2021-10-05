@@ -11,3 +11,4 @@ Prova 01 (10,0 pontos) Faça uma aplicação em React, para calcular as 4 opera�
 Minha Aplicação:
 
 ![Gif App](https://ibb.co/W6wnzyM)
+<img src="https://ibb.co/W6wnzyM" width="40" height="40" />
