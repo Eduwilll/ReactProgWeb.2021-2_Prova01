@@ -6,9 +6,9 @@ Profa. Me. Janaine C. S. Arantes
 
 Prova 01 (10,0 pontos) Faça uma aplicação em React, para calcular as 4 operações básicas da Matemática,  de acordo com a tela a seguir.
 
-![App](https://ibb.co/NKzVKN9)
+![](https://ibb.co/NKzVKN9)
 
 Minha Aplicação:
 
-![Gif App](https://ibb.co/W6wnzyM)
+![](https://ibb.co/W6wnzyM)
 <img src="https://ibb.co/W6wnzyM" width="40" height="40" />
