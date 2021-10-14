@@ -1,13 +1,14 @@
 
-.container-fluid {
-
-  
+body {
+background: rgb(131,58,180);
+background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
 }
 
 .border{
-  background-color: rgb(230, 228, 228);
+
+  background-color: rgb(255, 255, 255);
   margin: 5% 25% 0% 25%;
-  
+
 }
 
 p{
@@ -16,9 +17,10 @@ p{
 }
 
 .form-group{
+  
   margin: 5px 0px 5px 0px;
 }
 
 #opcao{
-  margin: 10px 0px 0px 100px;
+  margin: center;
 }
